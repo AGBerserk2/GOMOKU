@@ -1,5 +1,6 @@
-from abc import ABC,abstractmethod
+from abc import ABC, abstractmethod
+
 class IIA(ABC):
     @abstractmethod
-    def Modelo(self):
+    def elegir_movimiento(self, tablero, jugador):
         pass

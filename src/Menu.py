@@ -10,7 +10,9 @@ class Menu:
     options = [
         "    • 1 vs 1 Jugar",
         "    • VS Minimax++",
+        "    • VS Greedy",
         "    • VS Aleatorio",
+        "    • IA vs IA",
         "    • Salir 🔚"
     ]
     
